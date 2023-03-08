@@ -9,4 +9,6 @@ https://user-images.githubusercontent.com/113642847/223338863-a2401872-758b-4950
 
 
 ## About
-SabStore is a demo E-Commerce website. Built using React, Javascript, SCSS, Strapi, Redux, and Stripe.
+SabStore is a demo E-Commerce website. 
+
+Built using React, Javascript, SCSS, Strapi, Redux, and Stripe.
